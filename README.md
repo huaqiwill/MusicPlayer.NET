@@ -58,9 +58,7 @@ MusicPlayer.NET/
 - NAudio.WinMM (2.2.1)
 - NVorbis (0.10.4)
 
-## 许可证
 
-本项目采用 MIT 许可证
 
 ## 注意事项
 
@@ -68,14 +66,4 @@ MusicPlayer.NET/
 2. 使用了 Windows Media Player 组件和 NAudio 库来处理不同格式的音频文件
 3. OGG 格式的音频使用 NAudio 和 NVorbis 处理，其他格式使用 Windows Media Player 组件处理
 
-## 贡献指南
 
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 提交 Pull Request
-
-## 联系方式
-
-如有问题或建议，请提交 Issue 或 Pull Request。 
